@@ -1,0 +1,6 @@
+name = "vless-proxy"
+main = "_worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+UUID = "1dfdf3f2-186b-4bae-84d5-0c7cff226a92"
